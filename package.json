@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:unit": "jest",
+    "build": "echo 'Building the project...'"
   },
   "keywords": [],
   "author": "",
