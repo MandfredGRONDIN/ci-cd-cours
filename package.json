@@ -8,6 +8,7 @@
     "test": "jest",
     "test:unit": "jest",
     "build": "echo 'Building the project...'"
+
   },
   "keywords": [],
   "author": "",
