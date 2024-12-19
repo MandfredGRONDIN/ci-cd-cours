@@ -1,5 +1,6 @@
 IMAGE_NAME = hello-world-express
 
+.PHONY: build run
 build:
 	docker build -t $(IMAGE_NAME) .
 
